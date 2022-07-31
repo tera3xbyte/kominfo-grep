@@ -1,0 +1,10 @@
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/0.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/1.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/2.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/3.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/4.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/5.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/6.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/7.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/8.json
+https://pse.kominfo.go.id/static/json-static/ASING_TERDAFTAR/9.json
